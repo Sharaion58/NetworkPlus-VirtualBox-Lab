@@ -481,15 +481,46 @@ Access succeeded after correcting group-based permissions and refreshing the use
 ```text
 screenshots/
 ├── virtualbox/
+<img width="887" height="571" alt="02-SERVER01-VM-Configuration" src="https://github.com/user-attachments/assets/923dc60d-ea4b-439b-af20-22217d0d80d9" />
+<img width="890" height="555" alt="01-CLIENT01-VM-Configuration" src="https://github.com/user-attachments/assets/e783e451-2d62-4980-8abf-37f5004f58ef" />
+
 ├── server/
+<img width="1012" height="847" alt="03-SERVER01-Hostname" src="https://github.com/user-attachments/assets/6c8d55a8-4d71-4d41-8a18-373224d3cc08" />
+<img width="980" height="587" alt="05-SERVER01-Static-IP" src="https://github.com/user-attachments/assets/11bea23c-7625-4904-b33f-262d3471c43c" />
+
 ├── client/
 ├── dhcp/
+<img width="1048" height="653" alt="05-SERVER01-DHCP-Lease" src="https://github.com/user-attachments/assets/33dcf7d8-f291-43d7-ba89-ab02e9c3fb7e" />
+<img width="1011" height="383" alt="04-CLIENT01-DHCP-Lease" src="https://github.com/user-attachments/assets/c736b54c-8cc6-4dd4-9a33-a32b4fb5dde3" />
+<img width="1006" height="603" alt="03-NETPLUS-DHCP-Scope" src="https://github.com/user-attachments/assets/c3617f64-8ec1-40ee-a360-4d0c582991c6" />
+
 ├── dns/
+<img width="848" height="567" alt="02-SERVER01-A-Record" src="https://github.com/user-attachments/assets/5570bbbc-543d-4654-8538-8022561a2cef" />
+<img width="688" height="156" alt="04-DNS-Reverse issue" src="https://github.com/user-attachments/assets/5567d234-22b6-4dfe-8e2d-9ece1286404f" />
+
 ├── active-directory/
+<img width="873" height="543" alt="03-AD-Domain-Verified png" src="https://github.com/user-attachments/assets/e17d4395-05f8-4d53-964b-9953b8182114" />
+<img width="968" height="366" alt="07-CLIENT01-Domain-User-Login" src="https://github.com/user-attachments/assets/2adadd66-a5b4-4ec1-9c2b-5ad163ae9414" />
+<img width="916" height="589" alt="04-First-Domain-User" src="https://github.com/user-attachments/assets/78c4621a-81d0-4e52-91d8-7227b5bcbe65" />
+
 ├── group-policy/
+<img width="892" height="646" alt="12-GPO-Linked-to-Lab-Computers" src="https://github.com/user-attachments/assets/54e51eae-34d9-41b5-902c-d962d339c0fe" />
+<img width="963" height="476" alt="14-CLIENT01-GPO-Applied" src="https://github.com/user-attachments/assets/dcdd0185-a79c-45b7-a2e6-c0987eaa3d29" />
+
 ├── smb/
+<img width="891" height="610" alt="04-CLIENT01-SMB-Share-Access" src="https://github.com/user-attachments/assets/63fdb55d-3c3e-47e3-be9c-985b85563fec" />
+
 ├── troubleshooting/
+<img width="983" height="256" alt="03-SERVER01-to-CLIENT01-Ping-Failed" src="https://github.com/user-attachments/assets/39625382-eca7-4c75-969a-0dccaa539c3b" />
+<img width="994" height="282" alt="03-SERVER01-to-CLIENT01-Ping-SUCCESS" src="https://github.com/user-attachments/assets/49721974-deda-445e-95e1-ae8150223f8b" />
+
+
 └── wireshark/
+<img width="991" height="671" alt="02-ICMP-Ping-Capture" src="https://github.com/user-attachments/assets/25b84c7e-1690-4f96-8e3b-b70d96c5bda5" />
+<img width="1021" height="789" alt="03-DNS-Query-Response" src="https://github.com/user-attachments/assets/f3a118a0-5983-4ff4-9428-0d4c255432d0" />
+<img width="1049" height="822" alt="04-DHCP-DORA-Capture" src="https://github.com/user-attachments/assets/5251fad7-2bf6-46c9-b2e9-fe6e1765fbf1" />
+<img width="1015" height="772" alt="06-TCP-Three-Way-Handshake" src="https://github.com/user-attachments/assets/fcc05278-619b-44f8-a54e-28db6d572403" />
+
 ```
 
 Recommended screenshots include:
