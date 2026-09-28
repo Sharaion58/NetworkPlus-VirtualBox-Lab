@@ -74,7 +74,7 @@ CORP
 
 ### SERVER01 Static Address
 
-![SERVER01 static IP](04%20Window%20Server/05-SERVER01-Static-IP.png)
+![SERVER01 static IP](04%20Windows%20Server/05-SERVER01-Static-IP.png)
 
 ## DHCP
 
@@ -179,11 +179,11 @@ Added `labuser1` to `Lab-Staff` and joined CLIENT01 to `corp.netplus.test`.
 
 ### Domain Verified
 
-![Active Directory domain](Active%20Directory/03-AD-Domain-Verified.png.png)
+![Active Directory domain](Active%20Directory/03-AD-Domain-Verified.png)
 
 ### CLIENT01 Domain Join
 
-![CLIENT01 joined to domain](Active%20Directory/06%20CLIENT01-Domain-Join-Success.png)
+![CLIENT01 joined to domain](Active%20Directory/06-CLIENT01-Domain-Join-Success.png)
 
 ### OU Organization
 
@@ -370,8 +370,8 @@ ACK
 ## Repository Evidence Folders
 
 - [VirtualBox Setup](02%20VirtualBox%20Setup/)
-- [Windows Server](04%20Window%20Server/)
-- [Windows Client](05%20Window%20Clients/)
+- [Windows Server](04%20Windows%20Server/)
+- [Windows Client](05%20Windows%20Clients/)
 - [DHCP](06%20DHCP/)
 - [DNS](07%20DNS/)
 - [Testing](08%20Testing/)
