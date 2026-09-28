@@ -8,10 +8,7 @@ The lab uses Windows Server 2025 and Windows 11 to practice IPv4 addressing, DHC
 
 ## Network Topology
 
-```
-<img width="1536" height="1024" alt="ChatGPT Image Sep 28, 2026, 12_09_05 PM" src="https://github.com/user-attachments/assets/d8af4428-364b-4acc-a060-dcbfdeb819ee" />
-
-```
+![Network+ VirtualBox Small Business Lab topology](network-topology.png.png)
 
 ### Core Systems
 
